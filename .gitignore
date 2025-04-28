@@ -1,5 +1,5 @@
 # dependencies
-/node_modules/
+node_modules/
 /.pnp
 .pnp.js
 
@@ -21,4 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # JSONファイルすべて無視
-*.json
+/backend/data/*.json
